@@ -5,4 +5,4 @@
 
 * [datasheet](https://datasheet.octopart.com/SD-50BV-CUI-datasheet-103772973.pdf "SD-50BV-CUI-datasheet")
 
-![din5](https://github.com/newdigate/part-cui-SD-50BV/raw/master/images/CUI-DIN5-SD50BV-transparent.png)
+![din5](https://github.com/newdigate/part-cui-SD-50BV/raw/master/images/CUI-DIN5-SD50BV-transparent.PNG)
